@@ -1,10 +1,19 @@
 👋 Hi, I'm Mustafa!
-I'm a Web Developer passionate about building clean, functional, and responsive websites.
+I'm a Web Developer passionate about building responsive, modern and user-friendly websites.
 
-🌐 Skills: 
-Programming Languages: HTML, CSS, JavaScript, React, PHP
-Linux Systems (Server),
-Web application architecture,
-Web Security: OWASP Top 10
+💡 I love learning new technologies and turning ideas into real-world applications.
 
-📁 Projects: Check out my pinned repositories belo
+🌐 Skills:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js (basic), MongoDB (learning)
+- Tools: Git, GitHub, VS Code
+- Linux OS
+- OWASP Top 10
+
+📁 Projects:
+Check out some of my sample projects below 👇
+- 
+
+📫 Contact me:
+- Email: mmustafahussaini235@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammad-mustafa-hussaini-237480296
